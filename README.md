@@ -16,6 +16,11 @@ bower:
 
     bower install --save flag-svg-collection
 
+## motivation
+
+This repository is only a container for flags in SVG format. It's purpose is to
+be used as a dependency forother projects.
+
 ## credits
 
 The flags have been imported from [lipis/flag-icon-css repository](https://github.com/lipis/flag-icon-css).
