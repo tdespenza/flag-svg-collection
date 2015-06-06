@@ -4,8 +4,8 @@ This repository includes collection of [Scalable Vector Graphics](http://en.wiki
 
 [![flag-svg-collection npm module](https://nodei.co/npm/flag-svg-collection.png?downloads=true&stars=true "flag-svg-collection npm module")](https://www.npmjs.com/package/flag-svg-collection)
 
-[![Dependency Status](https://david-dm.org/tkoomzaaskz/flag-svg-collection/status.svg)](https://david-dm.org/tkoomzaaskz/flag-svg-collection)
-[![devDependency Status](https://david-dm.org/tkoomzaaskz/flag-svg-collection/dev-status.svg)](https://david-dm.org/tkoomzaaskz/flag-svg-collection#info=devDependencies)
+[![Dependency Status](https://david-dm.org/ducin/flag-svg-collection/status.svg)](https://david-dm.org/ducin/flag-svg-collection)
+[![devDependency Status](https://david-dm.org/ducin/flag-svg-collection/dev-status.svg)](https://david-dm.org/ducin/flag-svg-collection#info=devDependencies)
 
 ## install
 

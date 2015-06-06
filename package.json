@@ -1,11 +1,11 @@
 {
   "name": "flag-svg-collection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Collection of SVG flags",
   "main": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tkoomzaaskz/flag-svg-collection.git"
+    "url": "https://github.com/ducin/flag-svg-collection.git"
   },
   "keywords": [
     "flag",
@@ -14,7 +14,7 @@
   "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tkoomzaaskz/flag-svg-collection/issues"
+    "url": "https://github.com/ducin/flag-svg-collection/issues"
   },
-  "homepage": "https://github.com/tkoomzaaskz/flag-svg-collection"
+  "homepage": "https://github.com/ducin/flag-svg-collection"
 }
