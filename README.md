@@ -20,7 +20,7 @@ bower:
 ## motivation
 
 This repository is only a container for flags in SVG format. It's purpose is to
-be used as a dependency forother projects.
+be used as a dependency for other projects.
 
 ## credits
 
